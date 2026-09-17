@@ -1,0 +1,17 @@
+pandas
+python-dotenv
+google-genai
+streamlit
+requests
+opencv-python
+numpy
+qrcode[pil]
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+oracledb
+boto3
+slowapi
+pyotp

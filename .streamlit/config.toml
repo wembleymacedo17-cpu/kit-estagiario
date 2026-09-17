@@ -1,0 +1,3 @@
+[server]
+# Define o limite máximo global por arquivo enviado (em MB)
+maxUploadSize = 10
